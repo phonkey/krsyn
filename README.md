@@ -1,2 +1,1 @@
-# krsyn
-krsyn.com
+synapsex.co.kr
